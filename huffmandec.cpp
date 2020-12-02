@@ -3,10 +3,6 @@
   pjh4as
   11/10/2020
   huffmanec.cpp
-
-  Sources: 
-  - Professor Mark Floryan's recorded lecture from 11/9/2020.
-  - provided inlab-skeleton.cpp for input of encoded files code in main method.
 */
 
 #include <iostream>
