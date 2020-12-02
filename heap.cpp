@@ -8,10 +8,6 @@ using namespace std;
   pjh4as
   11/9/2020
   heap.cpp
- 
-  I used the binary_heap.cpp file from the class slides, and changed it to work with the 
-  huffmanNode class I created. I kept Professor Bloomfields name on my file above
-  as my citation.
 */
 
 // default constructor
